@@ -1,0 +1,471 @@
+Transaction_Amount,Transaction_Location,Transaction_Currency,Card_Type,Fraud_Flag_or_Label,Transaction_Source,Device_Information
+907.46,Hyderabad,INR,MasterCard,0,In-Person,Desktop
+2613.96,Hyderabad,INR,American Express,0,Online,Tablet
+4469.12,Indore,INR,MasterCard,1,Online,Mobile
+268.18,Vadodara,USD,American Express,0,Online,Tablet
+2873.36,Bangalore,INR,American Express,1,In-Person,Mobile
+1081.58,Ahmedabad,INR,Visa,0,In-Person,Tablet
+4165.48,Lucknow,EUR,MasterCard,1,In-Person,Tablet
+2823.91,Pune,EUR,MasterCard,0,In-Person,Mobile
+1310.13,Bangalore,EUR,American Express,1,Online,Desktop
+57.79,Ahmedabad,EUR,American Express,1,Online,Mobile
+2211.87,Bangalore,EUR,MasterCard,1,In-Person,Mobile
+1454.48,Kolkata,USD,Visa,1,In-Person,Tablet
+801.82,Pune,USD,Visa,1,Online,Desktop
+236.27,Thane,EUR,MasterCard,1,Online,Tablet
+1509.16,Kolkata,EUR,Visa,1,In-Person,Desktop
+4829.63,Delhi,INR,American Express,0,Online,Tablet
+2677.18,Hyderabad,USD,American Express,0,In-Person,Desktop
+2313.04,Delhi,INR,Visa,1,Online,Desktop
+4118.94,Mumbai,INR,Visa,0,Online,Tablet
+1466.93,Kanpur,USD,American Express,0,Online,Tablet
+2015.48,Vadodara,EUR,American Express,0,In-Person,Mobile
+1780.45,Pimpri-Chinchwad,EUR,American Express,0,Online,Tablet
+3474.28,Kanpur,USD,Visa,1,In-Person,Mobile
+2196.18,Thane,USD,MasterCard,0,In-Person,Tablet
+3012.79,Kanpur,EUR,MasterCard,0,In-Person,Mobile
+1963.23,Bangalore,EUR,MasterCard,1,In-Person,Mobile
+3757.13,Mumbai,INR,American Express,1,Online,Tablet
+4427.25,Nagpur,USD,Visa,1,In-Person,Desktop
+3673.06,Surat,USD,MasterCard,0,In-Person,Mobile
+4289.08,Bhopal,INR,MasterCard,1,In-Person,Desktop
+4071.3,Vadodara,EUR,MasterCard,0,In-Person,Tablet
+2725.52,Kanpur,EUR,MasterCard,0,In-Person,Desktop
+3609.01,Indore,INR,MasterCard,1,In-Person,Mobile
+2227.95,Mumbai,INR,MasterCard,1,In-Person,Tablet
+2594.02,Jaipur,EUR,Visa,0,In-Person,Tablet
+1445.31,Kolkata,INR,American Express,0,Online,Mobile
+3993.69,Delhi,USD,Visa,1,Online,Desktop
+2111.8,Bangalore,USD,Visa,0,In-Person,Desktop
+2089.36,Visakhapatnam,EUR,MasterCard,0,In-Person,Desktop
+3115.79,Visakhapatnam,USD,Visa,1,Online,Mobile
+4361.83,Surat,EUR,Visa,0,Online,Desktop
+4347.45,Bangalore,INR,American Express,1,Online,Desktop
+3232.62,Indore,INR,American Express,0,Online,Mobile
+975,Kanpur,INR,Visa,0,Online,Tablet
+3379.37,Nagpur,USD,American Express,0,Online,Desktop
+2466.38,Delhi,EUR,MasterCard,0,Online,Mobile
+4996.63,Vadodara,USD,Visa,0,In-Person,Tablet
+883.61,Jaipur,EUR,American Express,1,In-Person,Desktop
+3723.6,Ahmedabad,USD,Visa,0,In-Person,Tablet
+2691.69,Pimpri-Chinchwad,INR,MasterCard,0,In-Person,Desktop
+1092.21,Bhopal,USD,American Express,1,Online,Desktop
+1101.59,Patna,USD,MasterCard,0,In-Person,Tablet
+3933.18,Patna,EUR,Visa,0,Online,Tablet
+4118.29,Indore,INR,Visa,1,Online,Tablet
+3290.97,Jaipur,EUR,American Express,0,In-Person,Desktop
+1983.22,Vadodara,INR,MasterCard,0,Online,Desktop
+4024.68,Bangalore,USD,MasterCard,1,Online,Tablet
+4180.36,Kolkata,USD,Visa,1,In-Person,Tablet
+4407.29,Ahmedabad,INR,MasterCard,1,In-Person,Tablet
+4761.46,Pimpri-Chinchwad,EUR,American Express,0,In-Person,Tablet
+3660.15,Nagpur,EUR,MasterCard,0,Online,Tablet
+4570.57,Ahmedabad,USD,Visa,1,In-Person,Desktop
+4428.6,Surat,USD,MasterCard,1,Online,Desktop
+1745.31,Pimpri-Chinchwad,EUR,MasterCard,0,In-Person,Desktop
+3821.1,Kolkata,INR,MasterCard,1,In-Person,Desktop
+2169.71,Nagpur,USD,MasterCard,0,In-Person,Mobile
+388.66,Jaipur,INR,MasterCard,0,In-Person,Desktop
+171.64,Visakhapatnam,INR,MasterCard,1,Online,Desktop
+1879.13,Hyderabad,USD,American Express,0,In-Person,Tablet
+2662.45,Thane,EUR,MasterCard,1,In-Person,Desktop
+2360.53,Bhopal,USD,Visa,1,In-Person,Mobile
+1473.14,Patna,EUR,Visa,1,In-Person,Mobile
+3237.51,Vadodara,INR,MasterCard,0,In-Person,Tablet
+1243.95,Visakhapatnam,USD,American Express,0,In-Person,Desktop
+1672.27,Chennai,INR,American Express,0,In-Person,Desktop
+3382.46,Hyderabad,USD,American Express,1,In-Person,Mobile
+4292.2,Nagpur,INR,MasterCard,1,Online,Tablet
+29.6,Surat,INR,MasterCard,0,In-Person,Tablet
+2851.22,Pimpri-Chinchwad,INR,MasterCard,0,In-Person,Desktop
+1982.22,Chennai,EUR,MasterCard,1,Online,Desktop
+2837.23,Ahmedabad,USD,MasterCard,1,In-Person,Mobile
+3790.7,Ahmedabad,USD,Visa,0,In-Person,Tablet
+2931.53,Nagpur,INR,American Express,0,Online,Tablet
+3882.12,Pimpri-Chinchwad,INR,Visa,1,Online,Desktop
+606.91,Visakhapatnam,INR,MasterCard,0,In-Person,Tablet
+1048.73,Patna,EUR,Visa,0,In-Person,Mobile
+4949.85,Mumbai,EUR,Visa,0,In-Person,Mobile
+4155.53,Ahmedabad,INR,American Express,0,In-Person,Mobile
+4323.54,Delhi,EUR,MasterCard,0,Online,Mobile
+4101.53,Thane,EUR,Visa,1,In-Person,Desktop
+2695.73,Jaipur,USD,American Express,0,Online,Mobile
+4483.71,Delhi,USD,American Express,0,In-Person,Desktop
+1321.08,Nagpur,EUR,Visa,1,Online,Mobile
+1176.1,Chennai,EUR,American Express,1,Online,Mobile
+1256.09,Vadodara,USD,MasterCard,0,Online,Desktop
+3905.33,Kolkata,EUR,MasterCard,1,Online,Desktop
+3147.67,Mumbai,USD,MasterCard,0,Online,Mobile
+3224.77,Pune,USD,American Express,1,Online,Mobile
+3394.57,Delhi,EUR,Visa,1,In-Person,Mobile
+629.93,Hyderabad,USD,MasterCard,0,In-Person,Tablet
+1944.91,Ahmedabad,USD,American Express,1,In-Person,Desktop
+1882.48,Chennai,INR,MasterCard,1,Online,Mobile
+3529.78,Nagpur,INR,MasterCard,0,Online,Tablet
+3111.05,Kolkata,EUR,American Express,0,Online,Mobile
+3070.95,Vadodara,INR,American Express,0,In-Person,Tablet
+3746.17,Bangalore,USD,Visa,1,In-Person,Desktop
+4135.74,Delhi,INR,MasterCard,1,Online,Desktop
+3485.7,Visakhapatnam,EUR,American Express,0,Online,Mobile
+1704.15,Indore,INR,American Express,0,Online,Tablet
+4729.44,Visakhapatnam,EUR,MasterCard,1,In-Person,Desktop
+889.02,Ahmedabad,INR,MasterCard,1,Online,Mobile
+960.06,Surat,INR,Visa,1,Online,Desktop
+957.59,Lucknow,USD,Visa,1,Online,Desktop
+1716.83,Visakhapatnam,USD,MasterCard,0,In-Person,Desktop
+1817.34,Vadodara,USD,American Express,0,Online,Tablet
+4751.58,Chennai,EUR,Visa,1,Online,Mobile
+2265.48,Kolkata,USD,Visa,1,In-Person,Mobile
+777.92,Indore,USD,American Express,1,In-Person,Desktop
+624.38,Ahmedabad,INR,MasterCard,0,Online,Desktop
+3715.53,Mumbai,INR,MasterCard,0,Online,Tablet
+1238.27,Visakhapatnam,EUR,Visa,0,Online,Desktop
+2644.9,Nagpur,USD,MasterCard,0,In-Person,Mobile
+243.11,Jaipur,EUR,American Express,0,In-Person,Tablet
+2067.44,Chennai,EUR,Visa,0,Online,Mobile
+1851.94,Chennai,EUR,American Express,1,Online,Mobile
+1384.76,Visakhapatnam,EUR,MasterCard,0,Online,Mobile
+3659.59,Patna,INR,MasterCard,1,Online,Tablet
+3510.81,Bangalore,INR,Visa,1,In-Person,Desktop
+2510.39,Bhopal,USD,American Express,1,In-Person,Tablet
+2165.13,Bhopal,EUR,American Express,0,In-Person,Tablet
+4453.63,Bhopal,INR,American Express,0,Online,Tablet
+3655.25,Indore,INR,MasterCard,1,Online,Mobile
+2459.85,Vadodara,USD,Visa,0,Online,Mobile
+4949.52,Jaipur,EUR,Visa,0,Online,Tablet
+2048.79,Pimpri-Chinchwad,EUR,Visa,0,Online,Tablet
+4361.38,Jaipur,EUR,American Express,0,In-Person,Mobile
+1524.32,Jaipur,EUR,MasterCard,1,In-Person,Tablet
+1007.77,Bangalore,EUR,American Express,1,Online,Tablet
+1905.8,Mumbai,USD,American Express,0,Online,Desktop
+53.43,Patna,INR,Visa,0,In-Person,Tablet
+3410.29,Vadodara,INR,MasterCard,1,Online,Desktop
+4273,Vadodara,USD,MasterCard,0,In-Person,Desktop
+1290.95,Pune,USD,Visa,0,In-Person,Desktop
+1935.44,Surat,INR,MasterCard,0,In-Person,Tablet
+2616.16,Pimpri-Chinchwad,EUR,MasterCard,0,In-Person,Desktop
+1471.48,Kanpur,INR,MasterCard,1,In-Person,Mobile
+404.84,Kolkata,EUR,MasterCard,1,In-Person,Tablet
+1415.32,Kanpur,EUR,American Express,0,In-Person,Desktop
+28.1,Pune,USD,Visa,0,Online,Desktop
+30.27,Visakhapatnam,EUR,Visa,1,Online,Desktop
+4880.26,Lucknow,EUR,Visa,0,In-Person,Tablet
+4773.28,Kolkata,EUR,MasterCard,0,In-Person,Desktop
+2398,Surat,INR,American Express,1,In-Person,Tablet
+2538.34,Bangalore,INR,MasterCard,1,Online,Mobile
+3142.05,Ahmedabad,EUR,Visa,1,In-Person,Desktop
+291.45,Kolkata,EUR,Visa,1,Online,Desktop
+786.09,Vadodara,EUR,American Express,1,Online,Mobile
+2601.44,Ahmedabad,INR,MasterCard,1,Online,Mobile
+2306.37,Kanpur,EUR,American Express,1,Online,Desktop
+1759.66,Kanpur,EUR,Visa,1,In-Person,Mobile
+2663.91,Lucknow,USD,American Express,1,In-Person,Mobile
+2737.81,Patna,EUR,MasterCard,0,Online,Tablet
+2361.85,Nagpur,EUR,American Express,1,In-Person,Tablet
+2485.85,Chennai,USD,Visa,1,Online,Desktop
+106.05,Pimpri-Chinchwad,INR,MasterCard,0,In-Person,Desktop
+82.52,Bangalore,EUR,Visa,0,Online,Mobile
+3565.05,Mumbai,EUR,MasterCard,1,Online,Tablet
+4953.89,Jaipur,USD,Visa,0,In-Person,Desktop
+3033.56,Lucknow,EUR,Visa,0,In-Person,Mobile
+422.91,Ahmedabad,INR,Visa,1,In-Person,Desktop
+117.38,Visakhapatnam,USD,MasterCard,0,Online,Tablet
+4969.79,Lucknow,EUR,Visa,1,Online,Tablet
+3619.42,Patna,EUR,American Express,1,In-Person,Desktop
+3374.65,Bangalore,USD,American Express,1,In-Person,Tablet
+4775.37,Jaipur,INR,MasterCard,1,In-Person,Tablet
+2812.12,Pune,EUR,Visa,1,In-Person,Tablet
+2039.27,Lucknow,INR,MasterCard,0,Online,Mobile
+2397.09,Indore,INR,Visa,0,In-Person,Mobile
+3554.76,Mumbai,INR,Visa,0,Online,Desktop
+1.52,Patna,INR,MasterCard,1,Online,Mobile
+7.85,Hyderabad,EUR,Visa,0,Online,Tablet
+3532.75,Vadodara,INR,American Express,1,Online,Tablet
+4562.85,Kanpur,EUR,American Express,0,In-Person,Desktop
+721.02,Kolkata,EUR,MasterCard,1,In-Person,Mobile
+110.72,Delhi,USD,American Express,1,Online,Desktop
+1870.44,Patna,EUR,MasterCard,1,Online,Desktop
+4268.95,Bhopal,EUR,Visa,0,Online,Desktop
+4447.59,Ahmedabad,USD,MasterCard,0,In-Person,Mobile
+4322.16,Surat,USD,Visa,1,Online,Tablet
+4875.99,Visakhapatnam,INR,MasterCard,1,Online,Tablet
+2532.02,Delhi,EUR,MasterCard,1,Online,Mobile
+3742.95,Pimpri-Chinchwad,EUR,American Express,0,In-Person,Desktop
+1798.26,Kanpur,USD,American Express,1,In-Person,Mobile
+1898.24,Lucknow,USD,American Express,1,Online,Tablet
+446.98,Vadodara,INR,MasterCard,1,In-Person,Mobile
+3254.36,Indore,INR,MasterCard,0,In-Person,Tablet
+320.49,Delhi,EUR,MasterCard,0,Online,Desktop
+4346.15,Bangalore,EUR,American Express,0,In-Person,Mobile
+472.19,Pune,INR,American Express,0,Online,Tablet
+2363.11,Nagpur,USD,MasterCard,1,In-Person,Mobile
+2202.04,Bangalore,USD,American Express,1,Online,Tablet
+4040.72,Bhopal,INR,American Express,1,In-Person,Desktop
+4726.1,Bangalore,USD,Visa,1,In-Person,Tablet
+2980.01,Ahmedabad,USD,American Express,1,In-Person,Desktop
+3040.91,Lucknow,USD,MasterCard,1,In-Person,Tablet
+4071.65,Bhopal,EUR,American Express,0,In-Person,Tablet
+2674.39,Ahmedabad,INR,Visa,1,In-Person,Desktop
+3273.74,Pimpri-Chinchwad,USD,Visa,1,In-Person,Tablet
+4826.61,Hyderabad,EUR,MasterCard,0,In-Person,Desktop
+325.93,Surat,INR,MasterCard,1,In-Person,Desktop
+3995.9,Delhi,INR,American Express,0,In-Person,Mobile
+620.67,Surat,USD,American Express,0,In-Person,Tablet
+894.34,Hyderabad,EUR,American Express,0,Online,Desktop
+2522.7,Kolkata,USD,MasterCard,0,In-Person,Desktop
+306.86,Patna,EUR,MasterCard,0,Online,Mobile
+2386.15,Surat,USD,American Express,1,In-Person,Tablet
+4359.06,Kolkata,USD,Visa,1,In-Person,Mobile
+943.32,Nagpur,INR,MasterCard,0,Online,Desktop
+4753.64,Pimpri-Chinchwad,USD,Visa,0,Online,Desktop
+2765.39,Patna,EUR,Visa,0,Online,Tablet
+1515.73,Indore,INR,American Express,1,Online,Mobile
+814.92,Delhi,USD,American Express,1,Online,Mobile
+4363.85,Ahmedabad,EUR,MasterCard,0,Online,Desktop
+3588,Chennai,USD,MasterCard,1,Online,Mobile
+4490.06,Delhi,EUR,American Express,1,In-Person,Desktop
+334.52,Jaipur,EUR,American Express,1,Online,Tablet
+4085.72,Kolkata,USD,American Express,1,Online,Tablet
+658.47,Thane,INR,American Express,1,Online,Desktop
+4778.32,Lucknow,USD,American Express,0,In-Person,Desktop
+2425.38,Lucknow,EUR,Visa,0,Online,Desktop
+3052.32,Bangalore,INR,American Express,1,In-Person,Desktop
+2529.77,Surat,EUR,Visa,1,In-Person,Desktop
+2561.93,Thane,USD,MasterCard,1,Online,Desktop
+879.42,Visakhapatnam,USD,American Express,0,In-Person,Tablet
+4101.9,Patna,EUR,Visa,1,Online,Tablet
+3738.83,Lucknow,EUR,MasterCard,0,Online,Tablet
+1622.33,Delhi,USD,MasterCard,0,In-Person,Tablet
+3369.3,Kanpur,EUR,American Express,1,Online,Desktop
+289.54,Kanpur,EUR,American Express,1,In-Person,Tablet
+526.59,Indore,EUR,American Express,1,Online,Mobile
+3762.7,Thane,INR,MasterCard,0,In-Person,Tablet
+178.05,Kolkata,USD,American Express,1,In-Person,Tablet
+3819.46,Visakhapatnam,EUR,Visa,0,Online,Tablet
+4950.8,Bhopal,USD,Visa,1,Online,Tablet
+3878.17,Nagpur,INR,MasterCard,0,In-Person,Tablet
+4516.31,Surat,INR,MasterCard,1,Online,Desktop
+3743.92,Vadodara,EUR,Visa,1,In-Person,Desktop
+1941.51,Mumbai,USD,American Express,1,In-Person,Mobile
+998.89,Delhi,INR,American Express,0,Online,Desktop
+4090.01,Pimpri-Chinchwad,EUR,American Express,0,In-Person,Mobile
+2501.62,Thane,USD,MasterCard,0,Online,Tablet
+3366.89,Bangalore,INR,MasterCard,0,In-Person,Mobile
+1881.56,Hyderabad,USD,MasterCard,1,In-Person,Tablet
+2246.3,Lucknow,USD,MasterCard,0,Online,Tablet
+1522.52,Hyderabad,INR,MasterCard,0,In-Person,Tablet
+4434.58,Vadodara,EUR,Visa,0,Online,Tablet
+2492.42,Surat,INR,MasterCard,1,Online,Mobile
+2500.85,Patna,INR,MasterCard,0,In-Person,Desktop
+4761.41,Delhi,EUR,Visa,0,Online,Desktop
+3219.46,Delhi,INR,MasterCard,1,In-Person,Desktop
+4206.88,Hyderabad,INR,MasterCard,0,Online,Tablet
+4378.15,Delhi,USD,American Express,0,Online,Mobile
+4636.61,Pimpri-Chinchwad,INR,MasterCard,0,Online,Mobile
+991.46,Thane,EUR,Visa,0,Online,Tablet
+397.24,Visakhapatnam,EUR,Visa,0,In-Person,Tablet
+1191.81,Lucknow,USD,American Express,1,In-Person,Tablet
+1968.65,Delhi,INR,American Express,0,In-Person,Desktop
+526.45,Indore,INR,MasterCard,0,Online,Tablet
+2823.76,Chennai,INR,American Express,1,Online,Desktop
+130.5,Bangalore,EUR,American Express,0,Online,Desktop
+2167.54,Patna,EUR,American Express,0,In-Person,Tablet
+3637.44,Vadodara,USD,Visa,0,Online,Desktop
+2863.33,Mumbai,EUR,American Express,1,In-Person,Desktop
+3294.86,Thane,USD,Visa,1,Online,Mobile
+2059.57,Delhi,EUR,American Express,0,Online,Desktop
+2095.02,Chennai,EUR,American Express,1,In-Person,Mobile
+4758.84,Delhi,USD,American Express,1,Online,Desktop
+2946.62,Kolkata,EUR,American Express,1,In-Person,Desktop
+2678.05,Lucknow,USD,MasterCard,1,Online,Mobile
+1.61,Mumbai,USD,American Express,1,Online,Mobile
+3437.33,Bhopal,USD,MasterCard,0,Online,Tablet
+4198.92,Indore,EUR,American Express,0,Online,Tablet
+4493.11,Surat,USD,MasterCard,0,Online,Desktop
+1597.3,Delhi,EUR,MasterCard,0,Online,Tablet
+2583.68,Delhi,INR,MasterCard,0,In-Person,Mobile
+1984.64,Patna,EUR,American Express,0,In-Person,Tablet
+1088.2,Pune,USD,Visa,0,In-Person,Mobile
+1435.29,Pimpri-Chinchwad,EUR,American Express,0,In-Person,Tablet
+4723.06,Kanpur,INR,Visa,1,Online,Tablet
+777.78,Patna,EUR,MasterCard,1,In-Person,Desktop
+387.21,Kolkata,INR,American Express,1,In-Person,Mobile
+620.52,Vadodara,EUR,Visa,1,In-Person,Mobile
+3520.83,Pimpri-Chinchwad,USD,American Express,1,In-Person,Mobile
+1397.33,Pimpri-Chinchwad,EUR,Visa,1,In-Person,Tablet
+2394.77,Chennai,INR,American Express,0,Online,Mobile
+2936.32,Indore,USD,Visa,1,In-Person,Desktop
+3470.91,Indore,INR,MasterCard,1,In-Person,Tablet
+507.67,Surat,INR,American Express,1,In-Person,Tablet
+912.42,Patna,INR,MasterCard,1,Online,Mobile
+339.53,Patna,INR,Visa,1,Online,Tablet
+966.36,Pimpri-Chinchwad,EUR,MasterCard,1,In-Person,Desktop
+4303.56,Kanpur,EUR,American Express,1,Online,Desktop
+1688.29,Vadodara,USD,American Express,0,In-Person,Mobile
+2689.36,Hyderabad,USD,MasterCard,1,Online,Tablet
+1620.69,Ahmedabad,EUR,MasterCard,1,Online,Tablet
+387.37,Jaipur,USD,MasterCard,1,Online,Mobile
+2003.86,Pune,EUR,MasterCard,0,Online,Tablet
+3390.39,Hyderabad,INR,MasterCard,1,Online,Desktop
+1890.91,Bangalore,EUR,American Express,0,Online,Tablet
+3327.53,Mumbai,INR,MasterCard,1,In-Person,Tablet
+3405.52,Indore,INR,American Express,0,Online,Tablet
+2892.29,Bangalore,INR,Visa,1,Online,Tablet
+3837.21,Vadodara,USD,MasterCard,0,Online,Tablet
+2904.07,Mumbai,INR,American Express,1,Online,Desktop
+2999.22,Pune,INR,MasterCard,1,In-Person,Desktop
+4644.85,Pimpri-Chinchwad,EUR,American Express,0,In-Person,Mobile
+3213.46,Delhi,EUR,Visa,0,Online,Mobile
+3058.57,Indore,USD,MasterCard,0,In-Person,Tablet
+1030.07,Kanpur,INR,American Express,0,In-Person,Tablet
+4142.85,Bhopal,INR,Visa,0,Online,Tablet
+1481,Delhi,EUR,MasterCard,1,In-Person,Mobile
+4943.95,Bangalore,EUR,MasterCard,1,Online,Tablet
+1872.87,Bhopal,INR,MasterCard,1,Online,Tablet
+1007.02,Vadodara,USD,American Express,1,In-Person,Desktop
+2627.29,Lucknow,INR,American Express,1,Online,Mobile
+4408.95,Ahmedabad,USD,Visa,0,In-Person,Desktop
+3808.83,Bhopal,INR,MasterCard,1,In-Person,Desktop
+3143.17,Visakhapatnam,EUR,Visa,0,Online,Mobile
+468.12,Kolkata,INR,American Express,1,Online,Mobile
+3887.76,Nagpur,EUR,Visa,1,In-Person,Tablet
+1393.75,Bangalore,INR,American Express,1,In-Person,Tablet
+891.08,Lucknow,INR,American Express,1,In-Person,Tablet
+3492.35,Indore,INR,MasterCard,1,In-Person,Mobile
+4468.33,Nagpur,EUR,MasterCard,0,Online,Mobile
+1014.04,Surat,USD,MasterCard,0,Online,Tablet
+61.68,Chennai,INR,MasterCard,0,Online,Tablet
+1225.3,Patna,USD,Visa,1,Online,Tablet
+4448.29,Ahmedabad,EUR,Visa,1,Online,Mobile
+2602.75,Ahmedabad,USD,Visa,0,Online,Tablet
+3941.31,Pimpri-Chinchwad,INR,American Express,1,Online,Desktop
+1645.16,Thane,EUR,American Express,0,Online,Desktop
+964.9,Thane,EUR,American Express,0,In-Person,Mobile
+2425.81,Ahmedabad,USD,MasterCard,1,In-Person,Desktop
+1946.93,Chennai,USD,Visa,0,Online,Desktop
+2295.31,Indore,EUR,Visa,1,In-Person,Mobile
+3209.7,Kolkata,USD,American Express,1,Online,Mobile
+3177.86,Ahmedabad,INR,American Express,1,In-Person,Desktop
+3417.04,Jaipur,INR,American Express,1,Online,Tablet
+3177.61,Kolkata,EUR,Visa,0,Online,Mobile
+4911.96,Mumbai,EUR,Visa,1,In-Person,Mobile
+1695.2,Chennai,INR,Visa,0,Online,Tablet
+2137.82,Pune,USD,American Express,1,Online,Desktop
+2030.75,Mumbai,INR,American Express,1,In-Person,Tablet
+2986.68,Mumbai,EUR,MasterCard,1,In-Person,Tablet
+2794.22,Delhi,USD,MasterCard,0,Online,Tablet
+4006.57,Hyderabad,INR,Visa,0,In-Person,Desktop
+4247.08,Kolkata,USD,Visa,1,In-Person,Tablet
+3199.22,Vadodara,EUR,MasterCard,0,Online,Mobile
+3012.19,Chennai,EUR,American Express,0,Online,Tablet
+579.16,Surat,USD,MasterCard,1,Online,Tablet
+1500.38,Visakhapatnam,INR,Visa,1,In-Person,Desktop
+835.5,Visakhapatnam,USD,Visa,1,In-Person,Tablet
+1660.05,Kanpur,INR,Visa,1,In-Person,Mobile
+1076.01,Delhi,EUR,MasterCard,0,In-Person,Tablet
+1811.66,Vadodara,INR,MasterCard,1,Online,Mobile
+402.04,Bhopal,INR,American Express,1,Online,Mobile
+4913.49,Pune,INR,MasterCard,0,In-Person,Tablet
+4530.95,Lucknow,INR,Visa,0,Online,Mobile
+3325.32,Surat,INR,Visa,1,Online,Mobile
+2829.16,Jaipur,EUR,American Express,1,Online,Desktop
+3432.92,Bangalore,EUR,American Express,0,Online,Tablet
+4716.96,Bangalore,USD,American Express,1,In-Person,Desktop
+2721.81,Patna,USD,Visa,1,Online,Mobile
+1054.13,Pune,USD,MasterCard,1,Online,Tablet
+4258.99,Surat,EUR,Visa,1,In-Person,Desktop
+1962.15,Hyderabad,EUR,American Express,1,Online,Tablet
+3885.64,Bangalore,EUR,Visa,1,In-Person,Mobile
+689.7,Patna,EUR,MasterCard,0,In-Person,Tablet
+3770.15,Kanpur,USD,Visa,1,In-Person,Tablet
+2494.43,Jaipur,USD,Visa,1,Online,Mobile
+2674.65,Delhi,INR,Visa,1,In-Person,Mobile
+4293.52,Kolkata,EUR,MasterCard,1,Online,Tablet
+1674.87,Nagpur,INR,American Express,1,Online,Mobile
+4528.52,Mumbai,USD,MasterCard,1,In-Person,Desktop
+1153.57,Thane,EUR,MasterCard,1,In-Person,Desktop
+4571.07,Pimpri-Chinchwad,EUR,MasterCard,0,In-Person,Desktop
+3978.03,Jaipur,EUR,Visa,0,In-Person,Mobile
+2343.26,Pune,USD,Visa,0,In-Person,Mobile
+3089.04,Nagpur,EUR,Visa,0,In-Person,Mobile
+2021.55,Patna,EUR,American Express,0,In-Person,Mobile
+2613.95,Mumbai,EUR,Visa,1,In-Person,Mobile
+1089.02,Bangalore,USD,American Express,0,Online,Mobile
+3181.68,Bhopal,INR,Visa,0,Online,Desktop
+2530.73,Lucknow,INR,MasterCard,1,Online,Mobile
+2314.82,Bangalore,INR,Visa,1,Online,Tablet
+3251.95,Vadodara,USD,Visa,1,Online,Mobile
+4280.38,Surat,USD,MasterCard,1,Online,Mobile
+3560.51,Ahmedabad,EUR,American Express,0,Online,Mobile
+1759.78,Kolkata,INR,MasterCard,1,Online,Tablet
+3952.38,Kolkata,INR,American Express,1,In-Person,Mobile
+4077.07,Nagpur,INR,MasterCard,0,In-Person,Mobile
+2672.26,Kanpur,USD,MasterCard,1,Online,Tablet
+4808.36,Visakhapatnam,USD,MasterCard,0,Online,Desktop
+3422.19,Lucknow,INR,MasterCard,0,Online,Desktop
+155.06,Delhi,USD,American Express,1,In-Person,Mobile
+3848.78,Bangalore,EUR,Visa,1,Online,Tablet
+4027.27,Vadodara,EUR,American Express,0,In-Person,Mobile
+291.63,Bhopal,EUR,Visa,0,In-Person,Tablet
+4964.56,Ahmedabad,USD,American Express,1,Online,Desktop
+365.06,Lucknow,INR,MasterCard,0,Online,Mobile
+146.19,Pune,USD,Visa,1,In-Person,Mobile
+3259.4,Visakhapatnam,USD,Visa,1,Online,Tablet
+2501.56,Patna,USD,MasterCard,1,In-Person,Tablet
+3646.13,Mumbai,INR,MasterCard,1,Online,Desktop
+2450.2,Mumbai,INR,MasterCard,1,Online,Desktop
+4786.95,Bhopal,EUR,Visa,0,Online,Tablet
+3701.82,Hyderabad,USD,Visa,1,Online,Desktop
+1010.77,Bangalore,INR,American Express,1,Online,Tablet
+2340.51,Bangalore,INR,Visa,1,Online,Mobile
+4574.73,Kolkata,INR,American Express,1,Online,Mobile
+1961.66,Visakhapatnam,EUR,Visa,1,Online,Mobile
+1793.7,Visakhapatnam,INR,Visa,1,In-Person,Mobile
+4178.79,Indore,EUR,Visa,0,In-Person,Desktop
+3501.53,Delhi,USD,MasterCard,0,Online,Tablet
+705.64,Thane,USD,MasterCard,0,In-Person,Mobile
+4753.43,Kanpur,EUR,Visa,0,In-Person,Tablet
+4154.31,Bangalore,USD,Visa,0,In-Person,Tablet
+2704.61,Chennai,EUR,Visa,1,Online,Desktop
+2609.38,Pune,INR,American Express,1,In-Person,Mobile
+3357.2,Vadodara,USD,MasterCard,1,Online,Mobile
+1774.32,Nagpur,INR,Visa,1,In-Person,Tablet
+1854.05,Thane,USD,MasterCard,0,In-Person,Mobile
+1451.27,Nagpur,EUR,MasterCard,1,Online,Tablet
+2474.67,Bangalore,EUR,Visa,1,In-Person,Mobile
+2029.32,Ahmedabad,USD,Visa,0,In-Person,Mobile
+2171.43,Pune,USD,Visa,1,Online,Tablet
+3145.61,Pimpri-Chinchwad,INR,Visa,0,Online,Mobile
+4061.34,Thane,EUR,MasterCard,1,Online,Tablet
+4294.16,Thane,EUR,MasterCard,1,Online,Desktop
+663.64,Pune,INR,MasterCard,0,Online,Desktop
+1784.84,Chennai,USD,American Express,0,In-Person,Tablet
+731.84,Chennai,USD,Visa,1,In-Person,Tablet
+2165.79,Patna,INR,MasterCard,1,Online,Desktop
+2399.94,Pimpri-Chinchwad,EUR,American Express,1,In-Person,Tablet
+2564.83,Pune,INR,MasterCard,1,Online,Desktop
+4372.31,Hyderabad,USD,American Express,1,In-Person,Desktop
+693.78,Hyderabad,INR,American Express,1,In-Person,Desktop
+1033.22,Jaipur,EUR,Visa,0,Online,Mobile
+3991.67,Ahmedabad,INR,American Express,0,Online,Tablet
+1534.22,Indore,USD,MasterCard,0,Online,Mobile
+3093.12,Pune,USD,American Express,0,In-Person,Desktop
+1503.65,Mumbai,INR,American Express,0,Online,Tablet
+2708.41,Lucknow,EUR,MasterCard,0,Online,Mobile
+1688.03,Ahmedabad,EUR,Visa,1,In-Person,Desktop
+991.22,Vadodara,EUR,American Express,1,Online,Tablet
+1092.47,Thane,EUR,American Express,0,Online,Tablet
+2976.28,Ahmedabad,INR,Visa,0,Online,Desktop
+4565.33,Surat,INR,American Express,1,Online,Tablet
+2840.79,Pimpri-Chinchwad,INR,Visa,1,Online,Desktop
+2258.49,Jaipur,USD,MasterCard,1,Online,Tablet
+3923.04,Bangalore,EUR,MasterCard,0,Online,Tablet
+4513.48,Pune,EUR,American Express,0,In-Person,Desktop
+4053.61,Kanpur,USD,MasterCard,0,In-Person,Tablet
+993.9,Patna,USD,Visa,0,In-Person,Tablet
+931.36,Thane,USD,American Express,1,In-Person,Desktop
+791.48,Hyderabad,INR,American Express,0,Online,Mobile
+4670.05,Bhopal,USD,MasterCard,0,Online,Mobile
+683.45,Chennai,EUR,American Express,0,In-Person,Tablet
+725.97,Vadodara,USD,Visa,1,In-Person,Desktop
+1718.54,Vadodara,USD,Visa,0,In-Person,Mobile
